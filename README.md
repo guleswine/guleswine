@@ -10,10 +10,10 @@ Web developer: frontend with Vue 3 / TypeScript, backend with PHP / Go. I build 
 - Building small pet projects to prototype ideas and learn fast
 
 ## 💡 Skills
-- **Frontend:** Vue 3, TypeScript, Vite, Tailwind, PrimeVue  
+- **Frontend:** Vue 3, TypeScript, Vite, Tailwind, PrimeVue, PWA, Mobile app via Capacitor
 - **Backend:** PHP, Go, GraphQL, REST, Kafka, Websockets
 - **DevOps / Tools:** Docker, Docker Compose, CI/CD, Nginx, Git  
-- **ML / Data:** RAG, fine-tuning LLMs, data pipelines  
+- **ML / AI:** RAG, fine-tuning LLMs, AI coding, model inference 
 - **DBs & infra:** PostgreSQL, Oracle, MySQL, Redis
 
 
