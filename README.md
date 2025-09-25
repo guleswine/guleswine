@@ -5,8 +5,8 @@ Web developer: frontend with Vue 3 / TypeScript, backend with PHP / Go. I build 
 ---
 
 ## 🔭 Currently
-- Working on an online education platform used worldwide
-- Learning and applying AI & LLMs — fine-tuning models and using AI-assisted coding
+- I'm working on an online education platform accessible worldwide
+- Learning and applying AI & LLMs — fine-tuning/inference models and using AI-assisted coding
 - Building small pet projects to prototype ideas and learn fast
 
 ## 💡 Skills
