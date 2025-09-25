@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi — I'm Mikhail 🎯
 
-<!--
-**guleswine/guleswine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web developer: frontend with Vue 3 / TypeScript, backend with PHP / Go. I build practical products — from web tools for planning and automation to RAG/ML experiments. Outside of code I explore the world, make handmade gifts, and love cinema.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Currently
+- Working on an online education platform used worldwide
+- Learning and applying AI & LLMs — fine-tuning models and using AI-assisted coding
+- Building small pet projects to prototype ideas and learn fast
+
+## 💡 Skills
+- **Frontend:** Vue 3, TypeScript, Vite, Tailwind, PrimeVue  
+- **Backend:** PHP, Go, GraphQL, REST, Kafka  
+- **DevOps / Tools:** Docker, Docker Compose, CI/CD, Nginx, Git  
+- **ML / Data:** RAG, fine-tuning LLMs, data pipelines  
+- **DBs & infra:** PostgreSQL, Redis, Oracle, MySQL
+
+
+
+## 📫 Contact 
+- Telegram: `@gules_wine`  
+
