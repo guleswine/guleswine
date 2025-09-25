@@ -1,6 +1,6 @@
 # Hi — I'm Mikhail 🎯
 
-Web developer: frontend with Vue 3 / TypeScript, backend with PHP / Go. I build practical products — from web tools for planning and automation to RAG/ML experiments. Outside of code I explore the world, make handmade gifts, and love cinema.
+Web developer: frontend with Vue 3 / TypeScript, backend with PHP / Go. I build products — from web services, games, chat bots to RAG/ML experiments. Outside of code I explore the world, make handmade gifts, and love cinema.
 
 ---
 
